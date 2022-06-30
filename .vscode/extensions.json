@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "foam.foam-vscode",
+    "vsls-contrib.gitdoc",
+    "yzhang.markdown-all-in-one",
+    "pkief.markdown-checkbox",
+    "esbenp.prettier-vscode",
+    "bierner.markdown-mermaid",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting"
+  ]
+}
