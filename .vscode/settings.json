@@ -2,5 +2,6 @@
   "gitdoc.enabled": true,
   "pasteImage.basePath": "${currentFileDir}/images/",
   "pasteImage.path": "${currentFileDir}/images/",
-  "pasteImage.insertPattern": "<img src=\"images/${imageFilePath}\" width=\"200\" />"
+  "pasteImage.insertPattern": "<img src=\"images/${imageFilePath}\" width=\"200\" />",
+  "pasteImage.defaultName": "${currentFileName}--Y-MM-DD-HH-mm-ss"
 }
