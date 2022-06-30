@@ -1,3 +1,5 @@
+# Gray Ooze
+
 <img src="images/gray_ooze.Avatar.webp"  alt="Giant Fly" width="200" />
 
 # General Description (Hana Checked with Occultism)

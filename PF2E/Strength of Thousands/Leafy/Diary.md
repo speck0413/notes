@@ -27,6 +27,8 @@
   - [Entry](#entry-5)
 - [20220628](#20220628)
   - [Entry](#entry-6)
+- [20220706](#20220706)
+  - [Entry](#entry-7)
 
 <br />
 <hr />
@@ -195,4 +197,17 @@ We were able to beat them, but it took everything I had.
 
 We made our way to the north, we encountered a [[Gray Ooze]] that for now we're just avoiding, and also nearby some [[Brown Mold]] that reacts to heat. Rogar was able to fully remove it, but it did hurt a little...
 
-A little beyond the brown mold we ran into some more creatures, and they sound mean... Oh another [[Giant Mining Bees]], ahead this is going to be rough. Also appear to be more of the [[Gnagrif]] guys, not sure what they are... They hurt so bad last time...
+A little beyond the brown mold we ran into some more creatures, and they sound mean... Oh another [[Giant Mining Bees]], ahead this is going to be rough. Also appear to be more of the [[Gnagrif]] grimlin guys, not sure what they are... They hurt so bad last time...
+
+We're making our way to the [[Stone Ghost]] "office". Three masks and three cloaks are affixed to the south wall of this claustrophobic cave, as though in mockery of people, with arms extended to the sides. All look colorful, but dirty and bloodstained. One of the masks depicts a stern antelope, another a kindly hare, and the last a smiling warthog.
+
+The masks look like masks from the magambia, they're [[Stone Ghost]] trophy's of other magambian's that have been here... This seems pretty ominous. One mask has magical properties. One of the masks has the ability to double healing when rolled, the other two Hanah put them in her backpack.
+
+We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. A voice rings out from the walls and it says "Attack these interloper's," he comes out of the wall and walked directly at [[Rogar]] just like a ghost.
+<br><br>
+
+# 20220706
+
+## Entry
+
+---
