@@ -1,3 +1,5 @@
 {
-  "gitdoc.enabled": true
+  "gitdoc.enabled": true,
+  "pasteImage.basePath": "${currentFileDir}/images/",
+  "pasteImage.path": "${currentFileDir}/images/"
 }
