@@ -1,15 +1,23 @@
 # Todo List
 
-## Spica 5
+## 93k Projects
+
+### Spica 5
 
 - [ ] Meeting later today
 
-## Ithaca 2
+## UFlex Projects
+
+### Ithaca 2
 
 - [ ] EFlash Flow Creation
 - [ ] Basic Spi Translation Checkout
 
-## EzData QMS
+## Software projects
+
+### EzData QMS
 
 - [ ] Diff capability
 - [ ] Transition to DJango backend
+
+### XML-RPC
