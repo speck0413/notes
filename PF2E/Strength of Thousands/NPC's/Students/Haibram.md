@@ -1,5 +1,5 @@
 # Haibram
-#Rain-Scribe
+#RainScribe
 
 <img src="images/Haibram.png" width=200 />
 
