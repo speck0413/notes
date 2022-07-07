@@ -12,4 +12,4 @@
 
 ## Weaknesses
 
-Weak to Fire 5
+Weak to Fire -- 5
