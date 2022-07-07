@@ -8,17 +8,16 @@ NPC_COST[COST_OF_RUNE * 0.11]
 PC_COST[COST_OF_RUNE * 0.10]
 RUNE_COST[COST_OF_RUNE]
 
+style START fill:#C1E1C1,color:#000
+
 START-->
 State1[Installing Rune] --> Transfer{Are you <br> Transferring <br> the Rune}
 Transfer-->|Yes|UsingNPC{Are you using an NPC}
 UsingNPC-->|Yes|NPC_COST
--->END
 
 UsingNPC-->|No|PC_COST
--->END
 
 Transfer-->|No|RUNE_COST
--->END
 
 ```
 
@@ -37,7 +36,7 @@ PC_COST[COST_OF_RUNE * 0.10]
 RUNE[Purchasing and Installing Rune]
 RUNE_COST[COST_OF_RUNE]
 
-NPC-->NPC_COST
+START-->NPC-->NPC_COST
 PC-->PC_COST
 RUNE-->RUNE_COST
 
