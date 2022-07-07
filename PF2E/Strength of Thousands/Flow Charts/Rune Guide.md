@@ -14,7 +14,9 @@ RUNE_COST[COST_OF_RUNE]
 State1[Installing Rune] --> Transfer{Are you Transferring}
 
 Transfer-->|Yes|UsingNPC{Are you using an NPC}
-Transfer-->|No|NPC_COST
+UsingNPC-->|Yes|NPC_COST
+UsingNPC-->|Yes|PC_COST
+Transfer-->|No|RUNE_COST
 
 %%NPC-->NPC_COST
 %%PC-->PC_COST
