@@ -1,3 +1,5 @@
+# Proper Flow Chart
+
 ```mermaid
 
 flowchart LR
@@ -24,6 +26,8 @@ Transfer-->|No|RUNE_COST
 
 ```
 
+# Simplified Stephen Proof Diagram
+
 ```mermaid
 
 flowchart LR
@@ -36,8 +40,6 @@ PC_COST[COST_OF_RUNE * 0.10]
 
 RUNE[Purchasing and Installing Rune]
 RUNE_COST[COST_OF_RUNE]
-
-State1[Installing Rune] --> Transfer{Are you <br> Transferring <br> the Rune}
 
 NPC-->NPC_COST
 PC-->PC_COST
