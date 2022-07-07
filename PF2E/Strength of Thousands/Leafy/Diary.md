@@ -222,4 +222,4 @@ Whoa there are so many insects of varying sizes.  [[Teacher Ulaala]] is heading 
 
 ### Arodus 4722 AR
 
-[[Teacher Ot]] is asking us for what happened during our adventures in the undercavern's
+[[Teacher Ot]] is asking us for what happened during our adventures in the caves.  Rogar keeps a book of deed's that he was able to bring up with [[Teacher Ot]] in addition Hana releayed what all she found.
