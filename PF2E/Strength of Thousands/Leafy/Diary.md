@@ -30,6 +30,7 @@
 - [20220706](#20220706)
   - [Entry](#entry-7)
     - [Combat Begins!!!](#combat-begins)
+    - [Arodus 4722 AR](#arodus-4722-ar)
 
 <br />
 <hr />
@@ -218,3 +219,7 @@ We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. 
 Well [[Stone Ghost]] wasn't so bad...  Hana was able to piece together all the notes, they have really complete maps of the tunnels.  Some of the older notes references [[Uduak Basni]] (maybe Stone Ghost's Name) and he's very happy about presence of the insects.  He was working the worker bee's to death (insects) which was a bit of a distraction for the grimlins who he is also working to death. In addition there are details of attacks the first of which was the attack on our ceremony with each getting successively worse.
 
 Whoa there are so many insects of varying sizes.  [[Teacher Ulaala]] is heading up the investigation and categorization of the insects.
+
+### Arodus 4722 AR
+
+[[Teacher Ot]] is asking us for what happened during our adventures in the undercavern's
