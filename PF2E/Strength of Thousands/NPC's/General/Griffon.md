@@ -1,6 +1,6 @@
 # Griffon
 
-<img src="./images/Griffon.Actor.webp" alt="Griffon" width="200">
+<img src="./images/griffon.actor.webp" alt="Griffon" width="200">
 
 # General Description
 
