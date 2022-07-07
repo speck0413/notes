@@ -29,6 +29,7 @@
   - [Entry](#entry-6)
 - [20220706](#20220706)
   - [Entry](#entry-7)
+    - [Combat Begins!!!](#combat-begins)
 
 <br />
 <hr />
@@ -211,3 +212,6 @@ We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. 
 ## Entry
 
 ---
+
+### Combat Begins!!!
+
