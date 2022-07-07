@@ -215,3 +215,4 @@ We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. 
 
 ### Combat Begins!!!
 
+Well [[Stone Ghost]] wasn't so bad...  Hana was able to piece together all the notes, they have really complete maps of the tunnels.  Some of the older notes references [[Uduak Basni]] (maybe Stone Ghost's Name) and he's very happy about presence of the insects.  In addition there are details of attacks the first of which was the attack on our ceremony with each getting successively worse.
