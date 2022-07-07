@@ -11,11 +11,11 @@ PC_COST[COST_OF_RUNE * 0.10]
 %%UNE[Purchasing and Installing Rune]
 RUNE_COST[COST_OF_RUNE]
 
-State1[Installing Rune] --> Transfer{Are you Transferring}
+State1[Installing Rune] --> Transfer{Are you <br> Transferring <br> the Rune}
 
 Transfer-->|Yes|UsingNPC{Are you using an NPC}
 UsingNPC-->|Yes|NPC_COST
-UsingNPC-->|Yes|PC_COST
+UsingNPC-->|No|PC_COST
 Transfer-->|No|RUNE_COST
 
 %%NPC-->NPC_COST
