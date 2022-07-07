@@ -1,6 +1,6 @@
 ```mermaid
 
-graph TB
+flowchart LR
 
 NPC[Transferring Rune via NPC]
 NPC_COST[COST_OF_RUNE * 0.11]
