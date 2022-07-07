@@ -1,4 +1,4 @@
-# Stone Ghost
+# Uduak Basni
 
 <img src="./images/stone_ghost.Avatar.webp"  alt="Giant Fly" width="200" />
 
