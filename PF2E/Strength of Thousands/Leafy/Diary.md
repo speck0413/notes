@@ -222,4 +222,4 @@ Whoa there are so many insects of varying sizes.  [[Teacher Ulaala]] is heading 
 
 ### Arodus 4722 AR
 
-[[Teacher Ot]] is asking us for what happened during our adventures in the caves.  Rogar keeps a book of deed's that he was able to bring up with [[Teacher Ot]] in addition Hana releayed what all she found.  [[Teacher Ot]] is using some crazy magic to repair all the documents over the course of 10 minutes it looks almost pristine now, WOW... Hana was able to get it almost perfectly correct.
+[[Teacher Ot]] is asking us for what happened during our adventures in the caves.  Rogar keeps a book of deed's that he was able to bring up with [[Teacher Ot]] in addition Hana releayed what all she found.  [[Teacher Ot]] is using some crazy magic to repair all the documents over the course of 10 minutes it looks almost pristine now, WOW... [[Hana]], [[Ephret]] and [[Rogar]] was able to get it almost perfectly re-assemble the book.
