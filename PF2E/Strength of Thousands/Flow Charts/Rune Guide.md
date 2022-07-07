@@ -27,17 +27,19 @@ Transfer-->|No|RUNE_COST
 
 flowchart LR
 
-NPC[Transferring Rune via NPC]
+%%NPC[Transferring Rune via NPC]
 NPC_COST[COST_OF_RUNE * 0.11]
 
-PC[Transferring Rune Via PC]
+%%PC[Transferring Rune Via PC]
 PC_COST[COST_OF_RUNE * 0.10]
 
-RUNE[Purchasing and Installing Rune]
+%%RUNE[Purchasing and Installing Rune]
 RUNE_COST[COST_OF_RUNE]
 
-START-->NPC-->NPC_COST
-PC-->PC_COST
-RUNE-->RUNE_COST
+style START fill:#C1E1C1,color:#000
+
+START-->|Transfer via NPC|NPC_COST
+START-->|Transfer via PC|PC_COST
+START-->|Buying via NPC|RUNE_COST
 
 ```
