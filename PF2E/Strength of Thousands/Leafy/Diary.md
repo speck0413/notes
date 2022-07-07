@@ -205,7 +205,7 @@ We're making our way to the [[Stone Ghost]] "office". Three masks and three cloa
 
 The masks look like masks from the magambia, they're [[Stone Ghost]] trophy's of other magambian's that have been here... This seems pretty ominous. One mask has magical properties. One of the masks has the ability to double healing when rolled, the other two Hanah put them in her backpack.
 
-We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. A voice rings out from the walls and it says "Attack these interloper's," he comes out of the wall and walked directly at [[Rogar]] just like a ghost.
+We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. A voice rings out from the walls and it says "Attack these interloper's", he comes out of the wall and walked directly at [[Rogar]] just like a ghost.
 <br><br>
 
 # 20220706
