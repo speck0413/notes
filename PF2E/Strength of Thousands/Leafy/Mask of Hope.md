@@ -1,0 +1,5 @@
+# Mask of Hope
+
+A mask is created, two spirits one below is left eye and one below his right eye.  The one below his left eye is bound in chains but looks hopeful towards a light in the center of the forehead.  The one below the right eye is free of chains (broken beneath himself), but forelorn.  The spirit in the right and left eye gesture to one another while looking towards the light in the center of his forehead.
+
+Explanation: Leafy was freed from the bounds of being a spirit and able to interact with others.  His bound with Oaky allowed him to keep some of his memories, but he carries a very strong sense of guilt that he is the free one while his best friend is bound to him.  The light represents his goal to turn his best friend into a fully independent being so they can adventure again
