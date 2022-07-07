@@ -8,12 +8,17 @@ NPC_COST[COST_OF_RUNE * 0.11]
 PC_COST[COST_OF_RUNE * 0.10]
 RUNE_COST[COST_OF_RUNE]
 
+START-->
 State1[Installing Rune] --> Transfer{Are you <br> Transferring <br> the Rune}
-
 Transfer-->|Yes|UsingNPC{Are you using an NPC}
 UsingNPC-->|Yes|NPC_COST
+-->END
+
 UsingNPC-->|No|PC_COST
+-->END
+
 Transfer-->|No|RUNE_COST
+-->END
 
 ```
 
