@@ -1,0 +1,59 @@
+
+gantt
+title Critical Path for ODSP Bringup
+dateFormat DDD
+axisFormat %j Days
+
+section Bring-Up without Link-Scale
+    %% milestones, approximations of when things happen
+    Fab-Out : crit, milestone, fabout, 1, 
+        %% Nothin ghappens at fab-out
+
+    Packaged Parts Available : milestone, crit, package_back, 21, 
+        Post Silicon Firmware Bring-up Starts :crit, psfw, after package_back, 28d
+    
+    First Firmware Drop :crit, milestone, a_fw, after psfw, 
+        ATE Functional bring-up and stabilize :crit, atefunc, after a_fw, 65d
+
+    Qual Starts :crit, milestone, qual, after atefunc, 
+        Qual Runs :crit, qual_run, after qual, 30d
+
+    NPI : milestone, crit, after qual_ru
+
+section Link-Scale w/ Low Speed
+    %% milestones, approximations of when things happen
+    Fab-Out : crit, milestone, fabout, 1, 
+        %% Nothin ghappens at fab-out
+
+    Wafer Back : crit, milestone, wafer_back, 7, 
+        Post Silicon Firmware Bring-up Starts :crit, ls_psfw, after wafer_back, 14d
+
+    Packaged Parts Available : crit, milestone, package_back, 21, 
+        Post Silicon Firmware Bring-up Continues :crit, ls_psfw_c, after package_back, 14d
+    
+    First Firmware Drop :crit, milestone, ls_a_fw, after ls_psfw_c, 
+        ATE Functional bring-up and stabilize :crit, ls_atefw, after ls_a_fw, 65d
+
+    Qual Starts :crit, milestone, ls_qual, after ls_atefw, 
+        Qual Runs :crit, ls_qual_run, after ls_qual, 30d
+
+    NPI : milestone, crit, after ls_qual_run
+
+section Link-Scale w/ High Speed
+    %% milestones, approximations of when things happen
+    Fab-Out : crit, milestone, fabout, 1, 
+        %% Nothin ghappens at fab-out
+
+    Wafer Back : crit, milestone, wafer_back, 7, 
+        Post Silicon Firmware Bring-up Starts :crit, hs_psfw, after wafer_back, 14d
+
+    Packaged Parts Available : milestone, package_back, 21, 
+        Post Silicon Firmware Bring-up Continues :hs_psfw_c, after package_back, 14d
+    
+    First Firmware Drop :crit, milestone, hs_a_fw, after hs_psfw, 
+        ATE Functional bring-up and stabilize :crit, hs_atefw, after hs_a_fw, 65d
+
+    Qual Starts :crit, milestone, hs_qual, after hs_atefw, 
+        Qual Runs :crit, hs_qual_run, after hs_qual, 30d
+
+    NPI : milestone, crit, after hs_qual_run
