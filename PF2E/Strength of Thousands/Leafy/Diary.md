@@ -32,6 +32,11 @@
   - [Entry](#entry-7)
     - [Arodus 30th 4722 AR Stone Ghost Combat Begins!!!](#arodus-30th-4722-ar-stone-ghost-combat-begins)
     - [Arodus 31st 4722 AR Griffon Combat Begins](#arodus-31st-4722-ar-griffon-combat-begins)
+- [20220706](#20220706-1)
+  - [Entry](#entry-8)
+    - [Rova 15th, 4722 AR](#rova-15th-4722-ar)
+    - [Abadius 16th, 4723 AR](#abadius-16th-4723-ar)
+    - [Abadius 18th, 4723 AR](#abadius-18th-4723-ar)
 
 <br />
 <hr />
@@ -117,7 +122,9 @@ They work for a big grimlin (Kershkin) and the big grimlin works for a scary gho
 
 ### Fireday, Rova 9th 4721 AR
 
-We were approached by Ignaci and Strands-of-glowing-dawn (Tzeniwe). We were given elephant birds to ride, even for Oaky! Strands-of-glowing-dawn (Tzeniwe) seems to have set this up, that’s a mouthful to say. Tzeniwe said they represent the emerald bows.
+We were approached by [[Ignaci Canterells]] and [[Strands of Glowing Dawn]] (Tzeniwe). We were given elephant birds to ride, even for Oaky! Strands-of-glowing-dawn (Tzeniwe) seems to have set this up, that’s a mouthful to say. Tzeniwe said they represent the emerald bows.
+
+#EmeraldBoughs
 
 Rogar has a mean side, he was scary when he told the mean lady that she needed to return the lamp. Everyone around was also not happy with what happened.
 
@@ -219,14 +226,58 @@ We found [[Stone Ghost]]s' room, just as I was feeling safe the ghost appeared. 
 
 ### Arodus 30th 4722 AR Stone Ghost Combat Begins!!!
 
-Well [[Stone Ghost]] wasn't so bad...  Hana was able to piece together all the notes, they have really complete maps of the tunnels.  Some of the older notes references [[Uduak Basni]] (maybe Stone Ghost's Name) and he's very happy about presence of the insects.  He was working the worker bee's to death (insects) which was a bit of a distraction for the grimlins who he is also working to death. In addition there are details of attacks the first of which was the attack on our ceremony with each getting successively worse.
+Well [[Stone Ghost]] wasn't so bad... Hana was able to piece together all the notes, they have really complete maps of the tunnels. Some of the older notes references [[Uduak Basni]] (maybe Stone Ghost's Name) and he's very happy about presence of the insects. He was working the worker bee's to death (insects) which was a bit of a distraction for the grimlins who he is also working to death. In addition there are details of attacks the first of which was the attack on our ceremony with each getting successively worse.
 
-Whoa there are so many insects of varying sizes.  [[Teacher Ulaala]] is heading up the investigation and categorization of the insects.
+Whoa there are so many insects of varying sizes. [[Teacher Ulaala]] is heading up the investigation and categorization of the insects.
 
 ### Arodus 31st 4722 AR Griffon Combat Begins
 
-[[Teacher Ot]] is asking us for what happened during our adventures in the caves.  Rogar keeps a book of deed's that he was able to bring up with [[Teacher Ot]] in addition Hana releayed what all she found.  [[Teacher Ot]] is using some crazy magic to repair all the documents over the course of 10 minutes it looks almost pristine now, WOW... [[Hana]], [[Ephret]] and [[Rogar]] was able to get it almost perfectly re-assemble the book.
+[[Teacher Ot]] is asking us for what happened during our adventures in the caves. Rogar keeps a book of deed's that he was able to bring up with [[Teacher Ot]] in addition Hana releayed what all she found. [[Teacher Ot]] is using some crazy magic to repair all the documents over the course of 10 minutes it looks almost pristine now, WOW... [[Hana]], [[Ephret]] and [[Rogar]] was able to get it almost perfectly re-assemble the book.
 
-[[Teacher Ot]] says they found that the [[Stone Ghost]] likely wasn't the cause of the insects to come along, but there is some ongoing pervasive psychic call to bring them here. The grimlins, pests and other creatures seem to be responding to this call as well. Generally they are experiencing a sense of longing that they must come to the [[Magaambya]].  The signal doesn't appear to be localized or strong, it's just present. [[Teacher Ulaala]] has been strangely silent regarding what is drawing all the insects to the campus. Either she has some ideas which are dangerous but she's unwilling to share them or she doesn't have idea's which would be stranger still.  [[Teacher Ot]] transferred the enchantment from the [[Mask of Mercy]] into my [[Mask of Hope]], it will help me to heal and protect the others. [[Teacher Ot]] said this is an uncommon occurrence 
+[[Teacher Ot]] says they found that the [[Stone Ghost]] likely wasn't the cause of the insects to come along, but there is some ongoing pervasive psychic call to bring them here. The grimlins, pests and other creatures seem to be responding to this call as well. Generally they are experiencing a sense of longing that they must come to the [[Magaambya]]. The signal doesn't appear to be localized or strong, it's just present. [[Teacher Ulaala]] has been strangely silent regarding what is drawing all the insects to the campus. Either she has some ideas which are dangerous but she's unwilling to share them or she doesn't have idea's which would be stranger still. [[Teacher Ot]] transferred the enchantment from the [[Mask of Mercy]] into my [[Mask of Hope]], it will help me to heal and protect the others. [[Teacher Ot]] said this is an uncommon occurrence
 
-While in discussion with [[Teacher Ot]] we were redirected to some [[Anadi]] that want to become students at the [[Magaambya]].  In the middle of discussions with them just when [[Teacher Ot]] was going to have us pipe in [[Griffon]]'s swooped in to attack the [[Anadi]] one went down before I was even able to do anything.
+While in discussion with [[Teacher Ot]] we were redirected to some [[Anadi]] that want to become students at the [[Magaambya]]. In the middle of discussions with them just when [[Teacher Ot]] was going to have us pipe in [[Griffon]]'s swooped in to attack the [[Anadi]] one went down before I was even able to do anything.
+
+# 20220706
+
+## Entry
+
+---
+
+### Rova 15th, 4722 AR
+
+OOC -- Roughly 2 weeks in game has passed
+
+[[Occoro]] said [[Janatimo]] has come to the academy to teach, he must have amazing stories to tell. I have been told my stories leave a little to be desired, and that it adds to my charm!
+
+[[Janatimo]] summoned us by leaving a note on our pillow. He asked us for straightforwards and outlandish answers to various questions regarding recent events.
+
+We were given tasks to investigate in our spare time, our studies take precedent
+
+1. Find out what brought the #Anadi to the school
+2. Find out where the #Griffon's came from
+
+He provided us with 3 items for spending time with him.
+
+1. Crown of the Companion
+   > Stories tell of a forgotten king who once loved his subjects so much he was willing to give his own life energy for them. Whether true or not, this majesticwooden crown bears elaborate carvings depicting that tale. It's ringed with images of the same kingly figure giving more and more of himself to a throng of needy subjects. While wearing it, you gain a +1 item bonus to Diplomacy checks.
+2. Primal Scroll Case of Simplicity
+   > The four different types of scroll cases of simplicity often bear adornments appropriate to their magical tradition, such as angelic wings or otherworldly lettering. On the inside, intricate runic diagrams spiral out to surround the scroll stored within. A scroll placed within the case can be converted into energy to cast consistently useful spells depending on its type. You must be able to cast spells of a given tradition to use a scroll case of simplicity of a corresponding type.
+3. Warrior's Training Ring
+   > This ring is utilitarian in design-indicating its martial use. Its band is decorated only with a simple, sharp-edged sculpture on the band's center. While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained.
+
+### Abadius 16th, 4723 AR
+
+OOC -- had 4 months of studying
+
+### Abadius 18th, 4723 AR
+
+Met with [[Ignaci Canterells]], [[Noxolo]] and [[Strands of Glowing Dawn]] at their sewing day and was able to bring up the #Anadi in relatively normal conversation. The scarf is only able to be made using #Anadi techniques.
+
+[[Reflected-Upon-Gossamer-Strands]] or Goss
+
+[[Barest-Threads-Billowing Maztachia]] -- went down
+
+[[Droplets-Hanging-Gently Savanakin]] -- Died
+
+We finally managed to approach the Anadi to learn more about them. They seem very kind, while in the midst of discussion and giving them the pouch some statues animated and attacked us. Maybe the [[Griffon]]'s were targetting us all along.
