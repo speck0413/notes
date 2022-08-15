@@ -1,6 +1,8 @@
-# Stone Ghost
 
-<img src="./images/stone_ghost.Avatar.webp"  alt="Giant Fly" width="200" />
+# Binji
+#Neutral
+
+<img src="../images/binji.Avatar.webp" alt="Urbel" width="200">
 
 # General Description
 

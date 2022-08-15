@@ -32,7 +32,7 @@
   - [Entry](#entry-7)
     - [Arodus 30th 4722 AR Stone Ghost Combat Begins!!!](#arodus-30th-4722-ar-stone-ghost-combat-begins)
     - [Arodus 31st 4722 AR Griffon Combat Begins](#arodus-31st-4722-ar-griffon-combat-begins)
-- [20220706](#20220706-1)
+- [20220713](#20220713)
   - [Entry](#entry-8)
     - [Rova 15th, 4722 AR](#rova-15th-4722-ar)
     - [Abadius 16th, 4723 AR](#abadius-16th-4723-ar)
@@ -238,7 +238,7 @@ Whoa there are so many insects of varying sizes. [[Teacher Ulaala]] is heading u
 
 While in discussion with [[Teacher Ot]] we were redirected to some [[Anadi]] that want to become students at the [[Magaambya]]. In the middle of discussions with them just when [[Teacher Ot]] was going to have us pipe in [[Griffon]]'s swooped in to attack the [[Anadi]] one went down before I was even able to do anything.
 
-# 20220706
+# 20220713
 
 ## Entry
 
@@ -267,11 +267,11 @@ He provided us with 3 items for spending time with him.
    > This ring is utilitarian in design-indicating its martial use. Its band is decorated only with a simple, sharp-edged sculpture on the band's center. While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained.
 
 ### Abadius 16th, 4723 AR
-
+---
 OOC -- had 4 months of studying
 
 ### Abadius 18th, 4723 AR
-
+---
 Met with [[Ignaci Canterells]], [[Noxolo]] and [[Strands of Glowing Dawn]] at their sewing day and was able to bring up the #Anadi in relatively normal conversation. The scarf is only able to be made using #Anadi techniques.
 
 [[Reflected-Upon-Gossamer-Strands]] or Goss
@@ -281,3 +281,26 @@ Met with [[Ignaci Canterells]], [[Noxolo]] and [[Strands of Glowing Dawn]] at th
 [[Droplets-Hanging-Gently Savanakin]] -- Died
 
 We finally managed to approach the Anadi to learn more about them. They seem very kind, while in the midst of discussion and giving them the pouch some statues animated and attacked us. Maybe the [[Griffon]]'s were targetting us all along.
+
+
+# 20220803
+
+## Entry
+
+---
+
+### Fireday, Abadius 19th, 4723 AR
+--- 
+Well out of the kettle and into the fire... After barely getting through the fight with the statues we investigated some sounds and two very, very large snakes appeared to attack us. 
+
+It was almost the end of me
+
+## Starday, Abadius 20th 4723 AR
+
+We returned to Hababe Building to investigate. When I went to put my ear up to the door some snakes came out and cursed Noct and me, guess I need to get that removed now. Well after the curse was put on me we tried to see if the trap would strike twice. The trap didn't strike twice, but I could hear mumbling through the door [[Oyo]] and [[Mtembe]] were inside gambling
+
+They referenced [[Teacher Orwallu]] and [[Teacher Harrou]] I haven't heard of them, later Ephret explained that he knew the two teachers no longer teach at the [[Magaambya]] Rogar vehemently argued that he's been in their class.
+
+[[Ephret]] was doing a fantastic job of fishing for information, I think he knew they were lieing... I guess I was too obvious that I knew they were lying? I need some lessons from [[Ephret]] on how to get information from people when you know they're lying.
+
+After going through the room finding and unlocking a #trapdoor (it took a full hour) we entered the room to the north and a bunch of wood turned into another [[Golemn]].
