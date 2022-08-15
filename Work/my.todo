@@ -16,7 +16,12 @@ UFlex Projects:
         ✔ Basic SPI Checkout @done(22-08-15 12:28)
         ☐ Checkout firmware
         ☐ Make eflash flow
+Background Tasks:
+    EzData:
+        ☐ Add Upload capability to EzData
 Training:
     Six Sigma:
         ☐ Complete Green Belt Course
-        ☐ Take Test when opened
+        ☐ Take Test when re-opened
+    Evaluation:
+        ☐ Evaluate OReilly
