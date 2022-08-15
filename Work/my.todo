@@ -18,10 +18,18 @@ UFlex Projects:
         ☐ Make eflash flow
 Background Tasks:
     EzData:
-        ☐ Add Upload capability to EzData
+        ☐ Add Upload capability
+        ☐ Add flow parsing capability
+            ☐ UFlex
+            ☐ 93k
+        ☐ Add Git Support
+        ☐ Give Archana a demo of software
+    Jira:
+        ☐ Evaluate Jira Project Tracking
 Training:
     Six Sigma:
         ☐ Complete Green Belt Course
         ☐ Take Test when re-opened
     Evaluation:
         ☐ Evaluate OReilly
+    
