@@ -8,6 +8,8 @@
 
 ## UFlex Projects
 
+- [ ] Install 
+
 ### Ithaca 2
 
 - [ ] EFlash Flow Creation
@@ -17,7 +19,7 @@
 
 ### EzData QMS
 
-- [ ] Diff capability
 - [ ] Transition to DJango backend
+- [X] Diff capability
 
 ### XML-RPC

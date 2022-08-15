@@ -35,8 +35,15 @@
 - [20220713](#20220713)
   - [Entry](#entry-8)
     - [Rova 15th, 4722 AR](#rova-15th-4722-ar)
-    - [Abadius 16th, 4723 AR](#abadius-16th-4723-ar)
-    - [Abadius 18th, 4723 AR](#abadius-18th-4723-ar)
+  - [### Abadius 16th, 4723 AR](#-abadius-16th-4723-ar)
+  - [### Abadius 18th, 4723 AR](#-abadius-18th-4723-ar)
+- [20220803](#20220803)
+  - [Entry](#entry-9)
+  - [### Fireday, Abadius 19th, 4723 AR](#-fireday-abadius-19th-4723-ar)
+    - [Starday, Abadius 20th 4723 AR](#starday-abadius-20th-4723-ar)
+- [20220810](#20220810)
+  - [Entry](#entry-10)
+    - [Starday, Abadius 20th 4723 AR](#starday-abadius-20th-4723-ar-1)
 
 <br />
 <hr />
@@ -295,7 +302,7 @@ Well out of the kettle and into the fire... After barely getting through the fig
 
 It was almost the end of me
 
-## Starday, Abadius 20th 4723 AR
+### Starday, Abadius 20th 4723 AR
 
 We returned to Hababe Building to investigate. When I went to put my ear up to the door some snakes came out and cursed Noct and me, guess I need to get that removed now. Well after the curse was put on me we tried to see if the trap would strike twice. The trap didn't strike twice, but I could hear mumbling through the door [[Oyo]] and [[Mtembe]] were inside gambling
 
@@ -304,3 +311,17 @@ They referenced [[Teacher Orwallu]] and [[Teacher Harrou]] I haven't heard of th
 [[Ephret]] was doing a fantastic job of fishing for information, I think he knew they were lieing... I guess I was too obvious that I knew they were lying? I need some lessons from [[Ephret]] on how to get information from people when you know they're lying.
 
 After going through the room finding and unlocking a #trapdoor (it took a full hour) we entered the room to the north and a bunch of wood turned into another [[Golemn]].
+
+# 20220810
+
+## Entry
+
+---
+
+### Starday, Abadius 20th 4723 AR
+
+We were able to defeat the [[Golemn]] he seemed weak to fire and unsurprisingly strong against lightning. The statue.
+
+[[Teacher Janatimo]] said the [[Tian Xia]]n coffee table is perfectly paired with his coffee cups. This is something you learn only through extensive journeying. I cannot wait for my first adventure to learn such things!
+
+
