@@ -9,16 +9,18 @@
         ✔ Presentation for Wednesday discussing Test List @done(22-08-15 12:29)
 UFlex Projects:
     General:
-        ☐ Install velocity
         ☐ Network location (DC5)
         ☐ Data flow discussion/diagram
     Ithaca 2:
         ✔ Basic SPI Checkout @done(22-08-15 12:28)
         ☐ Checkout firmware
         ☐ Make eflash flow
-Background Tasks:
+General:
+    IT:
+        ✔ Create Server for Velocity @done(22-08-15 13:04)
+        ☐ Install Velocity on Server
     EzData:
-        ☐ Add Upload capability
+        ☐ Add Upload to subcon capability
         ☐ Add flow parsing capability
             ☐ UFlex
             ☐ 93k
