@@ -44,6 +44,9 @@
 - [20220810](#20220810)
   - [Entry](#entry-10)
     - [Starday, Abadius 20th 4723 AR](#starday-abadius-20th-4723-ar-1)
+- [20220817](#20220817)
+  - [Entry](#entry-11)
+    - [Sunday, Abadius 21st 4723 AR](#sunday-abadius-21st-4723-ar)
 
 <br />
 <hr />
@@ -323,5 +326,11 @@ After going through the room finding and unlocking a #trapdoor (it took a full h
 We were able to defeat the [[Golemn]] he seemed weak to fire and unsurprisingly strong against lightning. The statue.
 
 [[Teacher Janatimo]] said the [[Tian Xia]]n coffee table is perfectly paired with his coffee cups. This is something you learn only through extensive journeying. I cannot wait for my first adventure to learn such things!
+
+# 20220817
+
+## Entry
+
+### Sunday, Abadius 21st 4723 AR
 
 
