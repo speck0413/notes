@@ -9,5 +9,3 @@
 Catfolk. Slacker. Making moonshine in his room. Lives in the Spire dorm.
 
 Possibly really smart.
-
-Cascade Bearer
