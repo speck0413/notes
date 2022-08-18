@@ -333,4 +333,6 @@ We were able to defeat the [[Golemn]] he seemed weak to fire and unsurprisingly 
 
 ### Sunday, Abadius 21st 4723 AR
 
-We monitored the entrance into the cave system for any activity, but nothing appeared. To make sure our new friends [[Reflected-Upon-Gossamer-Strands]] and [[Barest-Threads-Billowing Maztachia]]
+We monitored the entrance into the cave system for any activity, but nothing appeared. To make sure our new friends [[Reflected-Upon-Gossamer-Strands]] and [[Barest-Threads-Billowing Maztachia]] are safe I grew a tree to cover the hole. Now I can rest easy that our friends who are moving into the old building are safe.
+
+
