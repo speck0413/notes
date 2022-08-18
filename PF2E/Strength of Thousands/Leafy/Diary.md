@@ -333,4 +333,4 @@ We were able to defeat the [[Golemn]] he seemed weak to fire and unsurprisingly 
 
 ### Sunday, Abadius 21st 4723 AR
 
-
+We monitored the entrance into the cave system for any activity, but nothing appeared. To make sure our new friends [[Reflected-Upon-Gossamer-Strands]] and [[Barest-Threads-Billowing Maztachia]]
