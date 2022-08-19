@@ -1,10 +1,10 @@
 93k Projects:
     Spica 5:
     XML-RPC:
-        ☐ Checkout new flow online
+        ✔ Checkout new flow online @done(22-08-19 07:35)
     Link Scale:
         ✔ Network Diagram for Dave @done(22-08-15 12:30)
-        ☐ Discussion on Wednesday, take notes
+        ✔ Discussion on Wednesday, take notes @done(22-08-19 07:35)
     Garage:
         ✔ Presentation for Wednesday discussing Test List @done(22-08-15 12:29)
 UFlex Projects:
@@ -19,6 +19,7 @@ General:
     ☐ Put together MBO's prior to next week visit
     IT:
         ✔ Create Server for Velocity @done(22-08-15 13:04)
+        ☐ Get service account created for velocity server
         ☐ Install Velocity on Server
     EzData:
         ☐ Add Upload to subcon capability
@@ -26,7 +27,7 @@ General:
             ☐ UFlex
             ☐ 93k
         ☐ Add Git Support
-        ☐ Give Archana a demo of software
+        ☐ Give Archana a demo of software while on site
     Jira:
         ☐ Evaluate Jira Project Tracking
 Training:
