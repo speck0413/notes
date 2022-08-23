@@ -5,13 +5,21 @@ MBOS:
 
     Adjusted:
         Shift more towards a technical leadership focused roal within the group
+
         Help drive and standardize processes within the group
             Drive GIT usage
             Shift to a standard data flow process
             Drive standardized audit procedure
+
         Help train engineers
             New Engineers
             Use of GIT
+        
+        Implement Items learned from Voice (LinkScale)
+            Implement OpenOCD enablement for design
+
+        Enable success for Ithaca2
+            Own EFlash and firmware download portions
 
 93k Projects:
     Spica 5:
