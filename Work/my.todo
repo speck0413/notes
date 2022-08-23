@@ -16,10 +16,18 @@ MBOS:
             Use of GIT
         
         Implement Items learned from Voice (LinkScale)
-            Implement OpenOCD enablement for design
+            Implement OpenOCD enabling firmware debug earlier in the process
+            Implement MDIO read/write for controlling DUT with higher throughput environment
+            Profile LinkScale methodology against finalized program
+            Profile TTR efforts required for LinkScale vs normal flow
+            Work with designers to standardize around FT2232H for bench/ATE
+            Prove out on Spica5 and enable for Nova bringup
 
         Enable success for Ithaca2
             Own EFlash and firmware download portions
+
+        Work with Kris on Artemis Pluto project
+            Currently in a consulting fashion, may become a more active role
 
 93k Projects:
     Spica 5:
