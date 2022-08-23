@@ -1,41 +1,36 @@
-MBOS:
-    Original:
-        Attend Voice to learn Industry Best Practices
-        Take training on new language (RUST)
+Adjusted:
+    Shift more towards a technical leadership focused roal within the group
 
-    Adjusted:
-        Shift more towards a technical leadership focused roal within the group
+    Become expert in Python programming language
 
-        Become expert in Python programming language
+    Help drive and standardize processes within the group
+        Drive GIT usage
+        Shift to a standard data flow process
+        Drive standardized audit procedure
 
-        Help drive and standardize processes within the group
-            Drive GIT usage
-            Shift to a standard data flow process
-            Drive standardized audit procedure
+    Help train engineers
+        New Engineers
+        Use of GIT
+    
+    Implement Items learned from Voice (LinkScale)
+        Implement OpenOCD enabling firmware debug earlier in the process
+        Implement MDIO read/write for controlling DUT with higher throughput environment
+        Profile LinkScale methodology against finalized program
+        Profile TTR efforts required for LinkScale vs normal flow
+        Work with designers to standardize around FT2232H for bench/ATE
+        Prove out on Spica5 and enable for Nova bringup
 
-        Help train engineers
-            New Engineers
-            Use of GIT
-        
-        Implement Items learned from Voice (LinkScale)
-            Implement OpenOCD enabling firmware debug earlier in the process
-            Implement MDIO read/write for controlling DUT with higher throughput environment
-            Profile LinkScale methodology against finalized program
-            Profile TTR efforts required for LinkScale vs normal flow
-            Work with designers to standardize around FT2232H for bench/ATE
-            Prove out on Spica5 and enable for Nova bringup
+    Enable success for Ithaca2
+        Own EFlash and firmware download portions
 
-        Enable success for Ithaca2
-            Own EFlash and firmware download portions
+    Work with Kris on Artemis Pluto project (Potential)
+        Currently in a consulting fashion, may become a more active role
 
-        Work with Kris on Artemis Pluto project (Potential)
-            Currently in a consulting fashion, may become a more active role
+    NPI to come
 
-        NPI to come
+    Assisted on atlas
 
-        Assisted on atlas
-
-        FastLock follow-up with Angshu / Devin
+    FastLock follow-up with Angshu / Devin
 
 93k Projects:
     Spica 5:
