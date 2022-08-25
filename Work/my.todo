@@ -1,4 +1,4 @@
-Adjusted:
+MBOS:
     Shift more towards a technical leadership focused role within the group
 
     Become expert in Python programming language
@@ -53,10 +53,10 @@ UFlex Projects:
         ☐ Checkout firmware
         ☐ Make eflash flow
 General:
-    ☐ Put together MBO's prior to next week visit
+    ✔ Put together MBO's prior to next week visit @done(22-08-25 07:52)
     IT:
         ✔ Create Server for Velocity @done(22-08-15 13:04)
-        ☐ Get service account created for velocity server
+        ✔ Get service account created for velocity server @done(22-08-25 07:52)
         ☐ Install Velocity on Server
     EzData:
         ☐ Add Upload to subcon capability
