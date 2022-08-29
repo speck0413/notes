@@ -43,6 +43,7 @@ MBOS:
         ✔ Network Diagram for Dave @done(22-08-15 12:30)
         ✔ Discussion on Wednesday, take notes @done(22-08-19 07:35)
         ☐ Create fully functional server for executing tests
+            ☐ Create CSV for pogo block to serial # mapping
         ☐ Create linkscale_tml
             ☐ Downloading Test Method (server, test methods etc...)
             ☐ Compiling Test Method (compile test methods etc...)
@@ -57,7 +58,7 @@ MBOS:
 UFlex Projects:
     General:
         ☐ Network location (DC5)
-        ☐ Data flow discussion/diagram
+        ✔ Data flow discussion/diagram @done(22-08-29 14:12)
     Ithaca 2:
         ✔ Basic SPI Checkout @done(22-08-15 12:28)
         ☐ Checkout firmware
