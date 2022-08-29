@@ -48,6 +48,10 @@ MBOS:
             ☐ Compiling Test Method (compile test methods etc...)
             ☐ Run Server (runs server and awaits requests, keeps state of test method being run)
             ☐ Execute Method (Executes method, tests any tests recorded)
+            ☐ Enable OpenOCD (SWD/MDIO for respective sites)
+            ☐ Switch to SWD/MDIO mode
+        ☐ Create OpenOcd Configs
+            ☐ Need OpenOCD Config
     Garage:
         ✔ Presentation for Wednesday discussing Test List @done(22-08-15 12:29)
 UFlex Projects:
