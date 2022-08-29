@@ -42,6 +42,12 @@ MBOS:
     Link Scale:
         ✔ Network Diagram for Dave @done(22-08-15 12:30)
         ✔ Discussion on Wednesday, take notes @done(22-08-19 07:35)
+        ☐ Create fully functional server for executing tests
+        ☐ Create linkscale_tml
+            ☐ Downloading Test Method (server, test methods etc...)
+            ☐ Compiling Test Method (compile test methods etc...)
+            ☐ Run Server (runs server and awaits requests, keeps state of test method being run)
+            ☐ Execute Method (Executes method, tests any tests recorded)
     Garage:
         ✔ Presentation for Wednesday discussing Test List @done(22-08-15 12:29)
 UFlex Projects:
