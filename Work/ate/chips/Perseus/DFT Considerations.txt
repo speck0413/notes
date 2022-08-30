@@ -1,0 +1,19 @@
+Mirror Spica+ Firmware Interaction architecture
+    Write arguments to fixed location
+    Write "GO" bit at fixed register
+    Wait for "DONE" bit at fixed register
+    Per operation (INIT, ENTER_OP, etc..)
+
+No requirement to re-download Firmware
+    INIT + ENTER_OP should allow any mode i.e.
+    examples
+        firmware download
+        INIT + ENTER_OP for DUAL PRBS 53G
+        test BER
+        then INIT + ENTER_OP EGRESS 56G
+        test BER
+
+Internal Loopbacks Discussion?
+
+package id bumps instead of fuses?
+thermal diode bumps
