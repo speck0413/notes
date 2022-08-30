@@ -14,6 +14,7 @@ No requirement to re-download Firmware
         test BER
 
 Internal Loopbacks Discussion?
-
+    can we loopback line *before* the drivers and have sufficient coverage (design question)
+    can 
 package id bumps instead of fuses?
 thermal diode bumps
