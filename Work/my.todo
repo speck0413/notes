@@ -61,19 +61,20 @@ UFlex Projects:
         ✔ Data flow discussion/diagram @done(22-08-29 14:12)
     Ithaca 2:
         ✔ Basic SPI Checkout @done(22-08-15 12:28)
-        ☐ Checkout firmware
         ☐ Make eflash flow
+        ☐ Checkout firmware -- delayed until we have a JTAG flow
 General:
     Slides:
         ☐ Slides for Brown bag
-        ☐ Slides for improving test time
         ☐ Slides for high level Link Scale
+        ✔ Slides for improving test time @done(22-08-31 10:56)
     ✔ Put together MBO's prior to next week visit @done(22-08-25 07:52)
     IT:
         ✔ Create Server for Velocity @done(22-08-15 13:04)
         ✔ Get service account created for velocity server @done(22-08-25 07:52)
-        ☐ Install Velocity on Server
+        ✔ Install Velocity on Server @done(22-08-31 10:56)
     EzData:
+        ☐ All efforts delayed until we decide what we're using
         ☐ Add Upload to subcon capability
         ☐ Add flow parsing capability
             ☐ UFlex
