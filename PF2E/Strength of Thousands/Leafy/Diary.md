@@ -344,6 +344,6 @@ We monitored the entrance into the cave system for any activity, but nothing app
 
 ### Moonday, Calistril 5th, 4723 AR
 
-Teacher [[Janatimo]] has advanced us to rank of conversant. 
+Teacher [[Janatimo]] has advanced us to rank of #conversant. We have to give a talk about how 
 
 <img src="images/letter-from-janatimo.png">
