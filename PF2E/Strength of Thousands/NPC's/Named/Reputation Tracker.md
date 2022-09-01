@@ -68,3 +68,20 @@ The PCs have earned this group’s ire. The vast majority of the group knows abo
 
 Source Gamemastery Guide pg. 165<br>
 The group actively hunts the PCs as scapegoats or nemeses, even at significant cost to itself. Every member has heard of the PCs, is hostile toward them, and would take major risks to thwart or destroy them. Only major disservices can still reduce Reputation Points, and only moderate or major favors can increase them.
+
+
+## Perks
+
+### Anchor Root
+
+```
++2 -- Rain Scribe
++3 -- Specialty Item
+```
+
+### Anchor Root
+
+```
++2 -- Rain Scribe
++3 -- Specialty Item
+```
