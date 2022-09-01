@@ -93,5 +93,5 @@ The group actively hunts the PCs as scapegoats or nemeses, even at significant c
 
 ### Ignaci
 ```
-+2: 
++2: When you cram for emerald boughs critical failures instead
 ```
