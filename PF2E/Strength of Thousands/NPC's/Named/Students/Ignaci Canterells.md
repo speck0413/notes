@@ -16,6 +16,8 @@ Made the Nethys mask that pranks people with insults that offer it silver coins,
 
 Good at ciphers.
 
+Raised in a country that is in 
+
 # Favorite things
 
 1. Cryptography
