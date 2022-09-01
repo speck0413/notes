@@ -346,6 +346,4 @@ We monitored the entrance into the cave system for any activity, but nothing app
 
 We are being promoted to 
 
-```
-
-```
+<img src="images/letter-from-janatimo.png">
