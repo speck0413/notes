@@ -79,9 +79,19 @@ The group actively hunts the PCs as scapegoats or nemeses, even at significant c
 +3 -- Specialty Item
 ```
 
-### Anchor Root
+### Haibram
 
 ```
-+2 -- Rain Scribe
-+3 -- Specialty Item
++2: Cram 3 times instead of twice for Rain Scribe 
+```
+
+### Okoro Obiyo
+
+```
++2: Don't get tired after cramming for Uzunjati classes 
+```
+
+### Ignaci
+```
++2: 
 ```
