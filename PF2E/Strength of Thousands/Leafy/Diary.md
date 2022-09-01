@@ -344,3 +344,8 @@ We monitored the entrance into the cave system for any activity, but nothing app
 
 ### Moonday, Calistril 5th, 4723 AR
 
+We are being promoted to 
+
+```
+
+```
