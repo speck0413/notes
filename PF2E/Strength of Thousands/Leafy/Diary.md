@@ -47,6 +47,9 @@
 - [20220817](#20220817)
   - [Entry](#entry-11)
     - [Sunday, Abadius 21st 4723 AR](#sunday-abadius-21st-4723-ar)
+- [20220831](#20220831)
+  - [Entry](#entry-12)
+    - [Moonday, Calistril 5th, 4723 AR](#moonday-calistril-5th-4723-ar)
 
 <br />
 <hr />
@@ -334,4 +337,10 @@ We were able to defeat the [[Golemn]] he seemed weak to fire and unsurprisingly 
 ### Sunday, Abadius 21st 4723 AR
 
 We monitored the entrance into the cave system for any activity, but nothing appeared. To make sure our new friends [[Reflected-Upon-Gossamer-Strands]] and [[Barest-Threads-Billowing Maztachia]] are safe I grew a tree to cover the hole. Now I can rest easy that our friends who are moving into the old building are safe.
+
+# 20220831
+
+## Entry
+
+### Moonday, Calistril 5th, 4723 AR
 
