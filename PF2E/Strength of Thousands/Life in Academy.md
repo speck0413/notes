@@ -4,7 +4,7 @@
 
 ## Monthly Recurring
 
-
+We make 4g at the beginning of every month.
 
 ## Five branches of Scholarship
 
