@@ -1,0 +1,3 @@
+# NOTES TO CHECK EVERY SESSION
+
+Make sure 
