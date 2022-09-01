@@ -8,7 +8,7 @@
 | [[Chizire]]                 |       |        |       |      |      |
 | [[Esi Djana]]               |       |        |       |      |      |
 | [[Haibram]]                 | +1    | +1     | +1    | +1   | +1   |
-| [[Ignaci Canterells]]       | +2    | -1     | -1    | -1   | -1   |
+| [[Ignaci Canterells]]       | +3    | -1     | -1    | -1   | -1   |
 | [[Strands of Glowing Dawn]] | -1    | -1     | -1    | -1   | -1   |
 | [[Okoro Obiyo]]             | +1    | +1     | +2    | +1   | +1   |
 | [[Lumuse Yao]]              |       |        |       |      |      |
@@ -94,4 +94,5 @@ The group actively hunts the PCs as scapegoats or nemeses, even at significant c
 ### Ignaci
 ```
 +2: When you cram for emerald boughs critical failures instead
++3: Vial of forgetful ink
 ```
