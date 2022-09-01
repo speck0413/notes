@@ -65,7 +65,7 @@ UFlex Projects:
         ☐ Checkout firmware -- delayed until we have a JTAG flow
 General:
     Slides:
-        ☐ Slides for Brown bag
+        ☐ Slides for Brown bag, SMT --> Exa migration
         ☐ Slides for high level Link Scale
         ☐ Slide for planned efforts
             Using JIRA for Project / Task Management:
@@ -81,6 +81,8 @@ General:
                 for ODSP request to add reg dump
                 for ODSP request to add ATB readings @ multiple voltages/frequencies
                 added "characterization items" should be appended to the prod flow
+            7.10.5 program migration:
+                Need to migrate for Exa Scale support, also enables Link Scale
         ✔ Slides for improving test time @done(22-08-31 10:56)
     ✔ Put together MBO's prior to next week visit @done(22-08-25 07:52)
     IT:
