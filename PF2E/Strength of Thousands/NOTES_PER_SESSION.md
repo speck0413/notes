@@ -1,3 +1,5 @@
 # NOTES TO CHECK EVERY SESSION
 
-Make sure 
+Presently have DC 8 check to see if fatigued each day
+
+
