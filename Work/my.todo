@@ -91,14 +91,17 @@ General:
         ✔ Get service account created for velocity server @done(22-08-25 07:52)
         ✔ Install Velocity on Server @done(22-08-31 10:56)
     EzData:
-        ☐ 
-        ☐ All efforts delayed until we decide what we're using
+        ☐ Sku Support
+            ☐ Add Sku support for Devices
+            ☐ Add Sku to filename i.e. Deneb LPDC r0.14 vs LPDC v0.15
+        ☐ Migrate backend to DJango
         ☐ Add Upload to subcon capability
         ☐ Add flow parsing capability
             ☐ UFlex
             ☐ 93k
         ☐ Add Git Support
         ☐ Give Archana a demo of software while on site
+        ☐ All efforts delayed until we decide what we're using
         ✔ Fix diffing issue Identified by Rich @done(22-09-02 04:34)
     Jira:
         ☐ Evaluate Jira Project Tracking
