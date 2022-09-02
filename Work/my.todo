@@ -66,9 +66,9 @@ UFlex Projects:
         ☐ Checkout firmware -- delayed until we have a JTAG flow
 General:
     Slides:
-        ☐ Slides for Brown bag, SMT --> Exa migration
         ☐ Slides for high level Link Scale
         ☐ Slide for planned efforts
+        ☐ Slides for Brown bag, SMT --> Exa migration
             Using JIRA for Project / Task Management:
                 quick example of how it could be used
                 create boiler plate
