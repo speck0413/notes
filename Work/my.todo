@@ -61,7 +61,7 @@ UFlex Projects:
         ☐ Get internet access for uflex in irvine
         ✔ Data flow discussion/diagram @done(22-08-29 14:12)
     Ithaca 2:
-        ☐ Make jtag2atp
+        ☐ Make jtag2atp and atp2jtag
             ☐ read_reg  = ir32_fixed(data),dr32_fixed(data),ir32_arg,dr32_read
             ☐ write_reg = ir32_fixed(data),ir32_arg,dr32_arg
             ☐ poll_reg  = ir32_fixed(data),ir32_arg,dr32_expect(expect_val, mask_val)
