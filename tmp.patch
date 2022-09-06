@@ -1,0 +1,63 @@
+diff --git a/Work/my.todo b/Work/my.todo
+index a31330f..a49d77d 100644
+--- a/Work/my.todo
++++ b/Work/my.todo
+@@ -61,18 +61,19 @@ UFlex Projects:
+         ☐ Get internet access for uflex in irvine
+         ✔ Data flow discussion/diagram @done(22-08-29 14:12)
+     Ithaca 2:
+-        ☐ Make jtag2atp and atp2jtag
+-            ☐ read_reg  = ir32_fixed(data),dr32_fixed(data),ir32_arg,dr32_read
+-            ☐ write_reg = ir32_fixed(data),ir32_arg,dr32_arg
+-            ☐ poll_reg  = ir32_fixed(data),ir32_arg,dr32_expect(expect_val, mask_val)
++        ✔ Basic SPI Checkout @done(22-08-15 12:28)
+         ☐ Make eflash flow
+         ☐ Checkout firmware -- delayed until we have a JTAG flow
+-        ✔ Basic SPI Checkout @done(22-08-15 12:28)
+ General:
+     Slides:
++        ☐ Slides for Brown bag, SMT --> Exa migration
+         ☐ Slides for high level Link Scale
+         ☐ Slide for planned efforts
+-        ☐ Slides for Brown bag, SMT --> Exa migration
++            Using JIRA for Project / Task Management:
++                quick example of how it could be used
++                create boiler plate
++                decide if useful or just excel is fine
++                need to centralize and make transfer of program ownership easier
+             ASIC Tech Exchange:
+                 CDSP presents -- CRC's for pattern management
+                 ASIC presents -- auto stage and transfer pgm
+@@ -83,11 +84,6 @@ General:
+                 added "characterization items" should be appended to the prod flow
+             7.10.5 program migration:
+                 Need to migrate for Exa Scale support, also enables Link Scale
+-            Using JIRA for Project / Task Management:
+-                quick example of how it could be used
+-                create boiler plate
+-                decide if useful or just excel is fine
+-                need to centralize and make transfer of program ownership easier
+         ✔ Slides for improving test time @done(22-08-31 10:56)
+     ✔ Put together MBO's prior to next week visit @done(22-08-25 07:52)
+     IT:
+@@ -95,18 +91,14 @@ General:
+         ✔ Get service account created for velocity server @done(22-08-25 07:52)
+         ✔ Install Velocity on Server @done(22-08-31 10:56)
+     EzData:
+-        ☐ Sku Support
+-            ☐ Add Sku support for Devices
+-            ☐ Add Sku to filename i.e. Deneb LPDC r0.14 vs LPDC v0.15
+-        ☐ Migrate backend to DJango
++        ☐ All efforts delayed until we decide what we're using
+         ☐ Add Upload to subcon capability
+         ☐ Add flow parsing capability
+             ☐ UFlex
+             ☐ 93k
+         ☐ Add Git Support
+         ☐ Give Archana a demo of software while on site
+-        ☐ All efforts delayed until we decide what we're using
+-        ✔ Fix diffing issue Identified by Rich @done(22-09-02 04:34)
++        ☐ Fix diffing issue Identified by Rich
+     Jira:
+         ☐ Evaluate Jira Project Tracking
+ Training:
