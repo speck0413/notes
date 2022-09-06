@@ -98,6 +98,8 @@ General:
         ☐ Sku Support
             ☐ Add Sku support for Devices
             ☐ Add Sku to filename i.e. Deneb LPDC r0.14 vs LPDC v0.15
+        ☐ Insertion Support
+        ☐ Check Spica 5 - Audit 1.10 rc5 vs 1.12 -- why continuity removed + added?
         ☐ Migrate backend to DJango
         ☐ Add Upload to subcon capability
         ☐ Add flow parsing capability
