@@ -72,7 +72,7 @@ General:
     Slides:
         ☐ Slides for high level Link Scale
         ☐ Slide for planned efforts
-        ☐ Slides for Brown bag, SMT --> Exa migration
+        ✔ Slides for Brown bag, SMT --> Exa migration @done(22-09-12 14:49)
             ASIC Tech Exchange:
                 CDSP presents -- CRC's for pattern management
                 ASIC presents -- auto stage and transfer pgm
