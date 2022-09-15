@@ -354,4 +354,7 @@ Teacher [[Janatimo]] has advanced us to rank of #conversant. We have to give a t
 
 ## Entry
 
+We have mostly closed out the investigation, Abeyo ran out of the city we were unfortunately unable to stop him. Bamidele turned himself in for wrongdoing.
+
+Amaechi has put in a request for help, it has been left for us.
 
