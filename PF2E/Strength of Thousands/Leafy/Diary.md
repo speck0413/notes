@@ -50,6 +50,8 @@
 - [20220831](#20220831)
   - [Entry](#entry-12)
     - [Moonday, Calistril 5th, 4723 AR](#moonday-calistril-5th-4723-ar)
+- [20220914](#20220914)
+  - [Entry](#entry-13)
 
 <br />
 <hr />
@@ -347,3 +349,9 @@ We monitored the entrance into the cave system for any activity, but nothing app
 Teacher [[Janatimo]] has advanced us to rank of #conversant. We have to give a talk about how 
 
 <img src="images/letter-from-janatimo.png">
+
+# 20220914
+
+## Entry
+
+
