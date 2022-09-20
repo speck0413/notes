@@ -45,8 +45,9 @@ MBOS:
         ☐ Create fully functional server for executing tests
             ✔ Create CSV for pogo block to serial # mapping @done(22-09-20 14:41)
         ☐ Create linkscale_tml
-            ✔ Setup LinkScale MDIO/JTAG @done(22-09-20 14:41)
-            ☐ 
+            ✔ Setup LinkScale MDIO/JTAG test method @done(22-09-20 14:41)
+            ✔ Download test method @done(22-09-20 14:42)
+            ✔ run cmd test method @done(22-09-20 14:42)
             ☐ Downloading Test Method (server, test methods etc...)
             ☐ Compiling Test Method (compile test methods etc...)
             ☐ Run Server (runs server and awaits requests, keeps state of test method being run)
