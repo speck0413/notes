@@ -5,16 +5,17 @@
 | NPC                         | Leafy | Ephret | Rogar | Noct | Hana |
 | --------------------------- | ----- | ------ | ----- | ---- | ---- |
 | [[Anchor Root]]             | 0     | +1     | +1    | +1   | +3   |
-| [[Chizire]]                 |       |        |       |      |      |
-| [[Esi Djana]]               |       |        |       |      |      |
-| [[Haibram]]                 | +1    | +1     | +1    | +1   | +1   |
-| [[Ignaci Canterells]]       | +3    | -1     | -1    | -1   | -1   |
+| [[Chizire]]                 | +1    | +1     |       |      | +3   |
+| [[Esi Djana]]               |       |        | +3    |      |      |
+| [[Haibram]]                 | +2    | +1     | +1    | +3   | +1   |
+| [[Ignaci Canterells]]       | +3    |  0     | -1    | -1   | -1   |
 | [[Strands of Glowing Dawn]] | -1    | -1     | -1    | -1   | -1   |
 | [[Okoro Obiyo]]             | +1    | +1     | +2    | +1   | +1   |
 | [[Lumuse Yao]]              |       |        |       |      |      |
 | [[Mariama Keitana]]         |       |        |       |      |      |
 | [[Noxolo]]                  |       |        |       |      |      |
 | [[Xhokan]]                  |       |        |       |      |      |
+| [[Okoro Obiyo]]             | +1    | +1     | +3    | +1   | +3   |
 | [[Teacher Ot]]              |       |        |       |      |      |
 | [[Teacher Ulaala]]          |       |        |       |      |      |
 

@@ -52,6 +52,11 @@
     - [Moonday, Calistril 5th, 4723 AR](#moonday-calistril-5th-4723-ar)
 - [20220914](#20220914)
   - [Entry](#entry-13)
+- [20221102](#20221102)
+  - [Entry](#entry-14)
+    - [Society Check](#society-check)
+    - [Diplomacy Check](#diplomacy-check)
+    - [Crafting Check](#crafting-check)
 
 <br />
 <hr />
@@ -357,4 +362,29 @@ Teacher [[Janatimo]] has advanced us to rank of #conversant. We have to give a t
 We have mostly closed out the investigation, Abeyo ran out of the city we were unfortunately unable to stop him. Bamidele turned himself in for wrongdoing.
 
 Amaechi has put in a request for help, it has been left for us.
+
+
+# 20221102
+
+## Entry
+
+[[Teacher Janatimo]] asked us to investigate who is starting the fires, we're completely on our own for it.
+
+### Society Check
+
+[[Hana]] noticed words were at the three locations:
+
+Alchemical lab - Debts
+
+Dormitory - Your
+
+Lecture Hall - Pay
+
+### Diplomacy Check
+
+[[Leafy]] and [[Barest-Threads-Billowing Maztachia]] canvas the area and get some information about a middle aged man wearing patchy leathers and reaking of sulfur in all three areas.
+
+### Crafting Check
+
+[[Rogar]] finds evidence of a gel magical flame to indeibly mark a surface
 
