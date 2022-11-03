@@ -396,3 +396,4 @@ Lecture Hall - Pay
 
 #### Fire Pots Alchemical Place
 
+Outside of one of the shoddily built huts a large creature stomps out of it.
