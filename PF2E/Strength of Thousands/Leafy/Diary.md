@@ -54,9 +54,11 @@
   - [Entry](#entry-13)
 - [20221102](#20221102)
   - [Entry](#entry-14)
-    - [Society Check](#society-check)
-    - [Diplomacy Check](#diplomacy-check)
-    - [Crafting Check](#crafting-check)
+    - [Investigation into whose starting fires](#investigation-into-whose-starting-fires)
+      - [Society Check](#society-check)
+      - [Diplomacy Check](#diplomacy-check)
+      - [Crafting Check](#crafting-check)
+      - [Fire Pots Alchemical Place](#fire-pots-alchemical-place)
 
 <br />
 <hr />
@@ -370,7 +372,9 @@ Amaechi has put in a request for help, it has been left for us.
 
 [[Teacher Janatimo]] asked us to investigate who is starting the fires, we're completely on our own for it.
 
-### Society Check
+### Investigation into whose starting fires
+
+#### Society Check
 
 [[Hana]] noticed words were at the three locations:
 
@@ -380,11 +384,15 @@ Dormitory - Your
 
 Lecture Hall - Pay
 
-### Diplomacy Check
+#### Diplomacy Check
 
 [[Leafy]] and [[Barest-Threads-Billowing Maztachia]] canvas the area and get some information about a middle aged man wearing patchy leathers and reaking of sulfur in all three areas.
 
-### Crafting Check
+#### Crafting Check
 
 [[Rogar]] finds evidence of a gel magical flame to indeibly mark a surface
+
+
+
+#### Fire Pots Alchemical Place
 
